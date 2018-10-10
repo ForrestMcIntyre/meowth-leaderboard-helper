@@ -1,0 +1,10 @@
+{
+  "name": "bkw-leaderboard-bot",
+  "version": "1.0.0",
+  "description": "Supplement to Meowth 2.0's Leaderboard ",
+  "main": "bot.js",
+  "author": "PaidtoWin",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}

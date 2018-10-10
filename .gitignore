@@ -1,0 +1,6 @@
+#node dependancies
+node_modules
+
+#auth
+auth.json
+sql.json
